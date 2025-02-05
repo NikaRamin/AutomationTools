@@ -42,9 +42,6 @@ DEST_FOLDER = os.path.expanduser("~/Pictures/Screenshots")
 ### For Windows Users
 By default, Windows has the Pictures folder inside the C:\Users\YourUsername\ directory. If you want to organize your screenshots there, modify the script like this:
 
-python
-Copy
-Edit
 ```python
 SOURCE_FOLDER = os.path.expanduser(r"C:\Users\YourUsername\Desktop")
 DEST_FOLDER = os.path.expanduser(r"C:\Users\YourUsername\Pictures\Screenshots")
@@ -74,7 +71,7 @@ which python3
 
 - Save and exit the crontab editor.
 
-## For Windows Users
+### For Windows Users
 To run the script at regular intervals on Windows, you can use Task Scheduler:
 
 1. Open Task Scheduler by typing "Task Scheduler" into the start menu.
