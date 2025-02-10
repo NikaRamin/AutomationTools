@@ -62,7 +62,3 @@ To automate the execution of this script, you can use `cron` on Linux/macOS or T
 - Ensure you have `tar`, `mv`, and `mkdir` installed. The script checks for their existence before execution.  
 - The archive is always named `archive.tar` and will be **overwritten** if it already exists in the backup directory.  
 - If the input directory does not exist, the script will exit with an error.  
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
