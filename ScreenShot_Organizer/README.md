@@ -19,7 +19,7 @@ ScreenShot Organizer is a simple Python script designed to automatically organiz
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/YourUsername/ScreenShot_Organizer.git
+    git clone https://github.com/YourUsername/AutomationTools.git
     cd ScreenShot_Organizer
     ```
 
