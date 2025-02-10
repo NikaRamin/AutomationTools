@@ -26,7 +26,7 @@ This is a simple Bash script that creates a `.tar` archive of a given directory 
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/backup-script.git
+   git clone https://github.com/yourusername/AutomationTools.git
    ```
 2. Navigate into the directory:
    ```bash
