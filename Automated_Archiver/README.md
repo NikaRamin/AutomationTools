@@ -30,11 +30,11 @@ This is a simple Bash script that creates a `.tar` archive of a given directory 
    ```
 2. Navigate into the directory:
    ```bash
-   cd backup-script
+   cd Automated_Archiver
    ```
 3. Make the script executable:
    ```bash
-   chmod +x backup.sh
+   chmod +x script.sh
    ```
 4. Run the script as described in the **Usage** section.
 
